@@ -19,8 +19,7 @@ src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-we
 src="https://www.flaticon.com/svg/static/icons/svg/2103/2103626.svg" />
 <img align="left" alt="activecampaign" width="29px"
 src="https://images.ctfassets.net/bx16dovk9m7p/46i803HI36kkc4ieSQCqIU/07d687d08888d465d57a990e445b3160/ac_mark-blue-trans.svg" />
-<img align="left" alt="wordpress" width="35px"
-src="https://mpng.subpng.com/20180824/rsq/kisspng-rtcamp-solutions-pvt-ltd-wordpress-com-computer-blog-wp-wordpress-icon-5b7fa732a7f190.3203986315350925306879.jpg" />
+
 
 
 
