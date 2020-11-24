@@ -23,6 +23,6 @@ src="https://www.flaticon.com/svg/static/icons/svg/2103/2103626.svg" />
 <img align="left" alt="activecampaign" width="29px"
 src="https://images.ctfassets.net/bx16dovk9m7p/46i803HI36kkc4ieSQCqIU/07d687d08888d465d57a990e445b3160/ac_mark-blue-trans.svg" />
 <br>
-https://olympus1.greatlearning.in/course_certificate/LGCBSDPV
+
 
 
