@@ -1,5 +1,5 @@
 ### Hi there! I'm Mesup Adhikari👋
-I'm **Mesup** from Nepal, and I'm a Self Taught Developer.I am a student and I love coding.I really enjoy learning programming languages and frameworks like Django and Flask as well as Machine Learning.I love helping people to understand new concepts and giving them tools to help them.I am a big-time automation guy. I am obsessed in becoming the best when it comes to coding.
+I'm **Mesup** from Nepal, and I'm a Python Developer.I am a student and I love coding.I really enjoy learning programming languages and frameworks like Django and Flask as well as Machine Learning.I love helping people to understand new concepts and giving them tools to help them.I am a big-time automation guy. I am obsessed in becoming the best when it comes to coding.
 <br>
 ### My achievements 
 https://olympus1.greatlearning.in/course_certificate/LGCBSDPV
