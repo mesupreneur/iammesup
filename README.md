@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Python, Django 
 
-I am on a mission to simplify the world through innovative software solutions for SMEs, and I am committed to building a successful business that helps people and makes a positive impact. My entrepreneurial journey has taught me that with hard work, dedication, and a willingness to take risks, anything is possible.
+On a mission to simplify the world through innovative software solutions for SMEs, and I am committed to building a successful business that helps people and makes a positive impact. My entrepreneurial journey has taught me that with hard work, dedication, and a willingness to take risks, anything is possible.
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
