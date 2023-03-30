@@ -11,15 +11,7 @@
 
 - 🌱 I’m currently learning Python, Django 
 
-At the age of 16, my entrepreneurial journey began when my father introduced me to the world of share market and IPOs. I was immediately interested and opened a demat account. I started saving money in order to invest in stocks. My first investment was Rs 1000. As I gained more experience and knowledge, I was able to earn a decent amount of money, which motivated me to continue exploring the world of business. Through this journey, I learned valuable lessons about risk management and staying informed, which have become foundational principles in my career as an entrepreneur.
-
-However, I didn't stop there. I became fascinated by web development and started building small projects to gain hands-on experience with HTML, CSS, and JavaScript. After my initial success in the stock market, I decided to explore other avenues for entrepreneurship and started Mesup Marketing, a business focused on designing and creating content for clients. I opened a Fiverr account and started working as a freelancer, providing a range of services to meet the diverse needs of our clients. With Mesup Marketing, I learned valuable lessons about managing a team and providing exceptional customer service, and I grew the business to the point where I was earning more than in my circle by the age of 17.
-
-One of my first clients was Arnaldo Batista, founder of Trautopart.com from Spain, who was impressed with my work and left a testimonial showcasing my ability to meet client expectations and deliver high-quality work. From there, other businesses started reaching out interested in my services, and I gained additional contracts, including one with Saswath Academy.
-
-Building on my experience with Mesup Marketing, I decided to delve into promoting software products. I focused on Skola Software and Igloo software, and with hard work and dedication, I was able to successfully promote them, generating over $1000 in commissions. This experience taught me valuable lessons about marketing and sales in the tech industry, including the importance of understanding the product and its target audience, building relationships with potential clients, and utilizing various marketing strategies to increase sales.
-
-Now, I am on a mission to simplify the world through innovative software solutions for SMEs, and I am committed to building a successful business that helps people and makes a positive impact. My entrepreneurial journey has taught me that with hard work, dedication, and a willingness to take risks, anything is possible.
+I am on a mission to simplify the world through innovative software solutions for SMEs, and I am committed to building a successful business that helps people and makes a positive impact. My entrepreneurial journey has taught me that with hard work, dedication, and a willingness to take risks, anything is possible.
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
