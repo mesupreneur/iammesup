@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
@@ -19,8 +15,6 @@
 - 🔭 I’m currently working on Python, Django
 
 - 🌱 I’m currently learning Python, Django 
-
-- 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about At the age of 16, my entrepreneurial journey began when my father introduced me to the world of share market and IPOs. I was immediately interested and opened a demat account. I started saving money in order to invest in stocks. My first investment was Rs 1000. As I gained more experience and knowledge, I was able to earn a decent amount of money, which motivated me to continue exploring the world of business. Through this journey, I learned valuable lessons about risk management and staying informed, which have become foundational principles in my career as an entrepreneur.
 
