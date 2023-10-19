@@ -7,9 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Python, Django
-
-- 🌱 I’m currently learning Python, Django 
+- I’m currently working on Python, Django
 
 On a mission to simplify the world through innovative software solutions for SMEs, and I am committed to building a successful business that helps people and makes a positive impact. My entrepreneurial journey has taught me that with hard work, dedication, and a willingness to take risks, anything is possible.
 
